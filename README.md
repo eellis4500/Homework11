@@ -10,3 +10,7 @@ Access the deployed application at the link below. You can create new notes, edi
 
 Here is a link to a video showing the app in use:
 https://sheltered-inlet-16421.herokuapp.com/
+
+Below is a snapshot of how the web app looks:
+![](public/assets/images/MainPage.jpg)
+![](public/assets/images/Notes.jpg)
